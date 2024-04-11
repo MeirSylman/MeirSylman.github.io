@@ -1,3 +1,4 @@
-remote_theme: daattali/beautiful-jekyll@6.0.1
 title: Welcome to my homepage!
+description: Github page for python course
 show_downloads: false
+theme: jekyll-theme-architect
