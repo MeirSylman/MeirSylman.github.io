@@ -5,5 +5,6 @@ I am a MSc student at the Weizmann Institute of Science, at [Schwartz lab](https
 
 I find joy in caring for plants and observing the fruits of my labor.
 ![strawberry](/WhatsApp%20Image%202024-04-14%20at%2011.23.55.jpeg)
+Here you can find my [assignments](https://github.com/MeirSylman/MeirSylman.github.io/tree/main/Assignments).
 
 I encourage you to visit [Hadar's](https://hadarklimovski.github.io/) homepage.
